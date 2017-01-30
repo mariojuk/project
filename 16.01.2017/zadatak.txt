@@ -1,0 +1,12 @@
+napraviti poèetnu stranicu
+stranica je responsive, large, medium, small, extra-small screens
+za svaku velièinu ekrana stranica je malo drukèija
+koristiti 
+display: none; za sakriti element
+display: inline; za prikazati element
+http://www.w3schools.com/cssref/pr_class_display.asp
+koristi html 5 semantièke elemente, i div elemente
+http://www.w3schools.com/html/html5_semantic_elements.asp
+obojaj elemente tako da se vidi konstrukcija
+
+
