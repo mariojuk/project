@@ -1,3 +1,4 @@
+.------------------------------------------------------
 napraviti poèetnu stranicu
 stranica je responsive, large, medium, small, extra-small screens
 za svaku velièinu ekrana stranica je malo drukèija
