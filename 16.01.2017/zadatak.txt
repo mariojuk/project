@@ -8,6 +8,6 @@ display: inline; za prikazati element
 http://www.w3schools.com/cssref/pr_class_display.asp
 koristi html 5 semantièke elemente, i div elemente
 http://www.w3schools.com/html/html5_semantic_elements.asp
-obojaj elemente tako da se vidi konstrukcija
+obojaj elemente tako da se vidi konstrukcija  jzgzgzgzgzug
 
 
